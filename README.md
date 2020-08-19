@@ -25,7 +25,7 @@ The tools in the genmod suite are:
 
 or
 
-	git clone https://github.com/moonso/genmod.git
+     ## git clone https://github.com/moonso/genmod.git
 	cd genmod
 	python setup.py install
 
